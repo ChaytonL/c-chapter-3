@@ -46,7 +46,7 @@ int main()
 
 	cout << " The " << color << " dragon is the " << ESTname <<
 		" Dragon of all. It has " << c << Pluralbodypart << " and a \n" << animal << " shaped like a " << noun <<
-		" It loves to eat " << pluralnoun << "although it will feast on nearly anything ";
+		" It loves to eat " << pluralnoun << " although it will feast on nearly anything ";
 
 	system("pause");
 	return 0;
