@@ -23,7 +23,8 @@ int main()
 
 	cout << " Yeahhhhhhhhhh Boyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy " << endl;
 
-	cout << " Your total will be $" << TotalBill << " for staying with us for " << DaysStayed << " nights "  << endl;
+	cout << " Your total will be $" << TotalBill << " for staying with us for " << DaysStayed << " nights. Thanks for staying with us "
+		<< name << endl;
 
 	cout << " Yeahhhhhhhhhh Boyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy " << endl;
 
